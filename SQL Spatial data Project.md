@@ -23,7 +23,7 @@ A view combining all shape data from three tables.
 ### 📏 Route Distance Calculation
 This procedure calculates and prints the distance difference between two linestrings.
 
-![Route Difference](C:\Users\Abaan\OneDrive\Desktop\distance.png)
+![Route Difference](screenshots/distance.png)
 
 ---
 
