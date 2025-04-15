@@ -30,7 +30,7 @@ This procedure calculates and prints the distance difference between two linestr
 ### 📍 Points in the spatial data
 Shows points inside a defined polygon buffer using `STIntersects`.
 
-![Points Inside](screenshots/spatial result.png)
+![Points Inside](screenshots/spatial_result.png)
 
 
 ## 💬 How It Works
