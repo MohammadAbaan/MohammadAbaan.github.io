@@ -18,9 +18,7 @@ The project performs the following tasks:
 ### ✅ View of All Shapes
 A view combining all shape data from three tables.
 
-![All Shapes](C:\Users\Abaan\OneDrive\Desktop\Spatial data1.png)
-
----
+![Spatial Data Output](./screenshots/spatial_data1.png)
 
 ### 📏 Route Distance Calculation
 This procedure calculates and prints the distance difference between two linestrings.
