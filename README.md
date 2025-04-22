@@ -1,10 +1,10 @@
 # Abaan's Developer Portfolio 🚀
 
-Welcome to my GitHub repository! This site is a digital portfolio to showcase my **skills**, **projects**, and **professional background** as an aspiring software developer and ICT student.
+Welcome to my GitHub repository! This site is a digital portfolio to showcase my **skills**, **projects**, and **professional background** as an aspiring ICT student.
 
 ## 👨‍💻 About Me
 
-I'm **Rana Mohammad Abaan Noon**, currently pursuing my **Bachelor of Information and Communications Technology** at UCOL, Palmerston North, New Zealand. I have hands-on experience in:
+I'm **Rana Mohammad Abaan Noon**, currently pursuing my **Bachelor of Information and Communications Technology** at UCOL, Palmerston North, New Zealand. I am majoring in Data Analytics and have currently got experience in:
 
 - Software & Web Development  
 - Database Management  
