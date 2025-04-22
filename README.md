@@ -8,8 +8,7 @@ I'm **Rana Mohammad Abaan Noon**, currently pursuing my **Bachelor of Informatio
 
 - Software & Web Development  
 - Database Management  
-- IT Project Coordination  
-- Network Configuration  
+- IT Project Coordination    
 - Agile Methodologies  
 
 I'm passionate about solving real-world problems through technology and constantly exploring new tools and frameworks.
