@@ -1,5 +1,5 @@
 Here is an image I created in the SVG format by writing up the code.
-![Descriptive Alt Text](screenshots/SVG_Image.png)
+![SVG Image](screenshots/SVG_Image.png)
 
 Here is the code that makes up this image:
  ```<svg width="550" height="300" xmlns="http://www.w3.org/2000/svg">
